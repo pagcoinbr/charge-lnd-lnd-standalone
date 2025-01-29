@@ -1,7 +1,3 @@
-Aqui está o **tutorial completo e formatado em Markdown**, incluindo a configuração do arquivo `charge.config` para compartilhar no Telegram:
-
----
-
 # ⚡ **Instalação do charge-lnd no Node Standalone** ⚡
 
 ## 🔹 **1. Clonar ou Atualizar o Repositório charge-lnd**
@@ -227,4 +223,3 @@ Para rodar o `charge-lnd` automaticamente todos os dias à meia-noite, configure
 
 ### 🎯 **Conclusão**
 O `charge-lnd` está instalado e configurado no seu **Node Standalone**! 🚀⚡  
-Agora, ele gerencia as taxas automaticamente com as estratégias definidas no `charge.config`. Para qualquer dúvida, estamos à disposição! 😊
